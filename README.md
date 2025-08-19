@@ -2,7 +2,7 @@
 bomb is a powerful ddos tool that can reboot shutdown or destroy a wifi router.
 
 # Requirements
-- Termux
+- [Termux app](https://github.com/termux/termux-app/releases)
 
 # Install 
 ```
