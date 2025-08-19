@@ -13,6 +13,7 @@ pkg update && pkg install -y python git && git clone https://github.com/xiv3r/bo
 ```
 python bomb.py
 ```
+<img src="https://github.com/xiv3r/bomb/blob/main/sample.png">
 
 ### Damaged router running on KeeneticOS firmware 
 
