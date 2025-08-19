@@ -1,5 +1,5 @@
 # About 
-bomb is a powerful ddos tool that can shutdown a wifi router.
+bomb is a powerful ddos tool that can reboot shutdown or destroy a wifi router.
 
 # Requirements
 - Termux
